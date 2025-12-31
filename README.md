@@ -104,7 +104,7 @@ Each stage feeds clean, structured data into the next—mirroring real productio
 
 ### 📑 Dataset Description
 
-🔹 **Source:** Public dataset downloaded from Kaggle (Google AdWords–style keyword performance data)
+🔹 **Source:** Public dataset downloaded from **Kaggle** (Google AdWords–style keyword performance data)
 
 🔹 **Raw_data.xlsx** (Simulated Google AdWords export) containing variables:
 
@@ -369,12 +369,12 @@ The Power BI report connects directly to MySQL database and provides interactive
 
 ### Dashboard Features
 
-**KPI Cards**: Total Traffic, CPC, Search Volume, Cost
-**Line Chart**: Traffic trends over time
-**Bar Chart**: Traffic by keyword
-**Treemap**: Search volume distribution
-**Pie/Donut Charts**: Traffic distribution by keyword difficulty and by month
-**Slicers**: Year, Quarter, Keyword filter
+- **KPI Cards**: Total Traffic, CPC, Search Volume, Cost
+- **Line Chart**: Traffic trends over time
+- **Bar Chart**: Traffic by keyword
+- **Treemap**: Search volume distribution
+- **Pie/Donut Charts**: Traffic distribution by keyword difficulty and by month
+- **Slicers**: Year, Quarter, Keyword filter
 
 ### Power BI Dashboard Insights:
 
@@ -468,7 +468,8 @@ git clone https://github.com/Samiul1947/google-adwords-performance-analysis.git
 ---
 - <h2><a class="anchor" id="author-&-contacts"></a>👤 Author & Contacts</h2>
 
-I'm **Samiul Gazi** , a data analyst passionate about storytelling with data, unsupervised learning, and real-world analytics.
+**Samiul Gazi** | Aspiring Data Analyst
+Passionate about data storytelling, unsupervised data exploration, and real-world analytics.
 🎓 M.Sc. Economics – University of Calcutta  
 📍 Kolkata, West Bengal  
 
@@ -480,7 +481,5 @@ If you liked this project, please ⭐ the repo!
 
 ⭐ **For Recruiters & Hiring Managers**  
 📌 This project demonstrates hands-on experience in **ETL design, relational data modeling, SQL querying, DAX measures, and BI storytelling**, which are core competencies for **Data Analyst and Business Intelligence roles**.
-
-📘📌 _If you're a student: Feel free to use this structure to learn data integration and dashboarding step by step._
 
 ---
