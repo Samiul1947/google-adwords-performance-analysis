@@ -212,7 +212,13 @@ The cleaned data was split into three reference tables:
 ✅ This acts as the central **fact table** enabling all analytical queries.
 
 
-![Excel Lookup Main Tables](Images/main_table.png)
+### Main Table View:
+
+<img width="1920" height="1080" alt="main_table" src="https://github.com/user-attachments/assets/b3895f17-0bbb-4d7b-bec5-e0393b0893fa" />
+
+
+
+
 
 ---
  - <h2><a class="anchor" id="sql-schema"></a>🗃 SQL Schema (Core with Queries)</h2>
@@ -265,9 +271,9 @@ ADD FOREIGN KEY (keyword_ID) REFERENCES keyword(keyword_ID);
 Foreign-key constraints ensure data integrity and normalization.
 These keys ensure consistent data joins between tables.
 
-### 📘 Schema Screenshot
+### 📘 Schema Screenshot:
 
-![Schema Screenshot](Images/mysql_schema_editor.png)
+<img width="1920" height="1080" alt="mysql_schema_editor" src="https://github.com/user-attachments/assets/c4185903-aa9b-43dd-931e-817d4245c024" />
 
 ### 🔑 Keys & Normalization
 
@@ -290,7 +296,9 @@ These keys ensure consistent data joins between tables.
 - <h2><a class="anchor" id="relationship-diagram-(EER)"></a>🧠 Relationship Diagram (EER)</h2>
 
 
-![EER Diagram](Images/EER_Diagram.png)
+### EER Diagram:
+
+<img width="1920" height="1080" alt="EER_Diagram" src="https://github.com/user-attachments/assets/f217f694-cd49-4104-ab1a-8c52077aa8ce" />
 
 These diagrams visualize the 1-to-many relationships between:
 
@@ -315,7 +323,9 @@ The dashboard follows a **star-schema data model**, ensuring accurate filtering,
 
 ✅ This model ensures accurate filtering and joins.
 
-![Power BI Data Model](Images/powerbi_data_model.png)
+### Power BI Data Model:
+
+<img width="1920" height="1037" alt="powerbi_data_model" src="https://github.com/user-attachments/assets/105dd2ac-85ed-4c63-9e93-a7902e1579e6" />
 
 ---
 
@@ -366,9 +376,10 @@ The Power BI report connects directly to MySQL database and provides interactive
 **Pie/Donut Charts**: Traffic distribution by keyword difficulty and by month
 **Slicers**: Year, Quarter, Keyword filter
 
-## Power BI Dashboard Insights:
+### Power BI Dashboard Insights:
 
-![Power BI Dashboard](Images/power_bi_dashboard.png)
+
+<img width="1920" height="1037" alt="power-bi-dashboard" src="https://github.com/user-attachments/assets/1d937d91-f264-4730-9d44-210ef9690325" />
 
 ---
 
